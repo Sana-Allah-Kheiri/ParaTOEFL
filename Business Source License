@@ -1,0 +1,27 @@
+# Business Source License 1.1 (BSL-1.1)
+
+**Copyright © 2026 ParaTOEFL. All Rights Reserved.**
+
+Licensed under the Business Source License 1.1, established by MariaDB Corporation Ab and adapted for ParaTOEFL. 
+
+---
+
+### 1. Grant of Additional Use Rights
+You may make use of the software licensed under this Agreement (the "Software") for any purpose, provided that you do not use the Software to provide a commercial managed service or paid TOEFL preparation platform competing directly with ParaTOEFL.
+
+### 2. Change Date
+* **Change Date:** 4 Years from the original release date (or as specified per version release).
+* **Change License:** MIT License (or applicable permissive open-source license).
+
+Upon the occurrence of the Change Date, this license will automatically convert to the Change License, and you may use the Software under the terms of the Change License.
+
+### 3. Permitted Production Use (Non-Commercial & Internal)
+You are free to use, test, review, and evaluate the Software internally, for personal education, or within non-commercial study environments. 
+
+### 4. Restrictions
+Without explicit written authorization from ParaTOEFL, you **may not**:
+* Host, commercialize, or re-license a paid or ad-supported TOEFL test-prep service utilizing this core repository's backend code or proprietary AI grading models.
+* Remove or alter copyright, trademark, or licensing notices embedded in the codebase.
+
+### 5. Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
